@@ -1,0 +1,39 @@
+{
+  "classrooms": [
+    {
+      "id": 1,
+      "classRoom_Name": "Teknoloji Sınıfı",
+      "school_Name": "ODTÜ",
+      "address": "Ankara",
+      "lessons": null
+    },
+    {
+      "id": 2,
+      "classRoom_Name": "B2 Sınıfı",
+      "school_Name": "Kocaeli üniversitesi",
+      "address": "Gebze",
+      "lessons": null
+    },
+    {
+      "id": 4,
+      "classRoom_Name": "B4 Sınıfı",
+      "school_Name": "Fırat Üniversitesi",
+      "address": "Elazığ",
+      "lessons": null
+    },
+    {
+      "id": 5,
+      "classRoom_Name": "Test Sınıfı",
+      "school_Name": "Van Yüzüncü Yıl",
+      "address": "Van",
+      "lessons": null
+    },
+    {
+      "id": 1014,
+      "classRoom_Name": "adasd",
+      "school_Name": "asdsad",
+      "address": "asdasd",
+      "lessons": null
+    }
+  ]
+}
